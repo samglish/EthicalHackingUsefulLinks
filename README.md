@@ -4,5 +4,5 @@ useful links in cybersecurity
 <a href="http://www.zenk-security.com">http://www.zenk-security.com</a>
 <a href="https://hackerzvoice.net/">https://hackerzvoice.net</a>
 <a href="http://www.root-me.org/">http://www.root-me.org</a>
-<a href=""></a>
-<a href=""></a>
+<a href="https://www.hacking-lab.com">https://www.hacking-lab.com</a>
+<a href="https://www.newbiecontest.org/">https://www.newbiecontest.org</a>
